@@ -53,7 +53,7 @@ Movie House is a web development project that aims at recommending movies and se
 
 ## 👨‍💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1827-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white&color=black)](https://leetcode.com/princeyadav00785/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1896-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white&color=black)](https://leetcode.com/princeyadav00785/)
   - **Highest LeetCode Rating:** 1896
   - **Solved 900+ DSA Questions**
 
