@@ -6,7 +6,7 @@
 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-yadav00785)
 🐦 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cocuseryadav)
 💻 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princeyadav00785)
-🧑‍💻 [![LeetCode](https://img.shields.io/badge/LeetCode-1896-brightgreen?style=for-the-badge&logo=leetcode)](https://leetcode.com/princeyadav00785/)
+🧑‍💻 [![LeetCode](https://img.shields.io/badge/LeetCode-1920-brightgreen?style=for-the-badge&logo=leetcode)](https://leetcode.com/princeyadav00785/)
 📚 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-py8881065817-brightgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/py8881065817)
 
 ### 🚀 Web Developer | 💡 Machine Learning Enthusiast | 🎓 NIT Allahabad Final Year
@@ -53,7 +53,7 @@ Movie House is a web development project that aims at recommending movies and se
 
 ## 👨‍💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1896-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white&color=black)](https://leetcode.com/princeyadav00785/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1920-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white&color=black)](https://leetcode.com/princeyadav00785/)
   - **Highest LeetCode Rating:** 1920
   - **Solved 900+ DSA Questions**
 
