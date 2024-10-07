@@ -3,6 +3,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=princeyadav00785&color=brightgreen)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princeyadav00785" alt="princeyadav00785"/></a> </p>
+
+
 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-yadav00785)
 🐦 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cocuseryadav)
 💻 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princeyadav00785)
@@ -63,6 +66,9 @@ Movie House is a web development project that aims at recommending movies and se
 ## 📊 Contributions Summary
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeyadav00785&layout=compact&hide_border=true)](https://github.com/princeyadav00785)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princeyadav00785&" alt="princeyadav00785" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princeyadav00785&show_icons=true&locale=en" alt="princeyadav00785" /></p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=princeyadav00785)
 
