@@ -12,7 +12,7 @@
 🧑‍💻 [![LeetCode](https://img.shields.io/badge/LeetCode-1920-brightgreen?style=for-the-badge&logo=leetcode)](https://leetcode.com/princeyadav00785/)
 📚 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-py8881065817-brightgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/py8881065817)
 
-### 🚀 Web Developer | 💡 Machine Learning Enthusiast | 🎓 NIT Allahabad Final Year
+### 🚀 Web Developer | 💡 Android Developer | 🎓 NIT Allahabad
 
 ## 🔧 Technologies & Tools
 
