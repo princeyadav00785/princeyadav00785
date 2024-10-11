@@ -31,8 +31,7 @@
 
 ## 🌱 Currently Learning
 
-- Machine Learning (ML)
-- Deep Learning (DL)
+- Flutter
 
 ## 🚀 My Projects
 
