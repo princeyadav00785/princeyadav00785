@@ -1,5 +1,5 @@
 
-# Hi there! 👋 I'm Prince Yadav
+# Hi there! I'm Prince Yadav
 
 ![Profile Views](https://komarev.com/ghpvc/?username=princeyadav00785&color=brightgreen)
 
