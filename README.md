@@ -49,9 +49,8 @@ Movie House is a web development project that aims at recommending movies and se
 
 ## 🎓 Education
 
-- **B.Tech in [Electrical Engineering]**  
+- **B.Tech**  
   National Institute of Technology (NIT), Allahabad  
-  *Expected Graduation: [April-2024]*
 
 ## 👨‍💻 Coding Profiles
 
