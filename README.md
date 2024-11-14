@@ -67,7 +67,6 @@ Movie House is a web development project that aims at recommending movies and se
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princeyadav00785&" alt="princeyadav00785" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princeyadav00785&show_icons=true&locale=en" alt="princeyadav00785" /></p>
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=princeyadav00785)
 
 Feel free to explore my repositories and connect with me on coding platforms!
