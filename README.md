@@ -35,17 +35,64 @@
 
 ## 🚀 My Projects
 
-### Lending Hands
+Here's an updated and enhanced version of your GitHub README projects section, with **EduStream** at the top, followed by **Farm Management App (KrishiMitra)** and then **Lending Hands**. I've expanded descriptions and improved formatting.  
 
-[![Lending Hands](https://img.shields.io/badge/Lending_Hands-MERN_Project-blue?style=for-the-badge)](https://github.com/princeyadav00785/Lending_Hands)
+---
 
-Lending Hands is a MERN project related to a web app where users can sell and buy items. It is integrated with the Stripe API for payment processing.
+## 🚀 My Projects  
 
-### Movie House
+### 📚 EduStream  
 
-[![Movie House](https://img.shields.io/badge/Movie_House-Web_Development_Project-orange?style=for-the-badge)](https://github.com/princeyadav00785/Movie_house)
+[![EduStream](https://img.shields.io/badge/EduStream-EdTech_Streaming_Platform-green?style=for-the-badge)](https://github.com/princeyadav00785/EduStream)  
 
-Movie House is a web development project that aims at recommending movies and series to the user based on their search history with the help of ML algorithms. It also provides recommendations based on the user's genre history and allows genre-based filtering of the content. Users can create roomsto watch movies together and hang out.
+EduStream is an innovative **EdTech streaming platform** that enables educators to create and share interactive courses, live classes, and recorded sessions. It includes:  
+- 🎥 **Live & Recorded Classes** – Host and watch educational videos with seamless streaming.  
+- 🏫 **Course Management** – Teachers can create structured courses with quizzes, assignments, and certification.  
+- 📊 **Student Progress Tracking** – Monitor learning progress with analytics and performance insights.  
+- 🔒 **Secure Payment Integration** – Monetization through subscriptions and one-time purchases.  
+- 📱 **Responsive UI** – Fully optimized for web and mobile devices.  
+
+---
+
+### 🌱 Farm Management App (KrishiMitra)  
+
+[![KrishiMitra](https://img.shields.io/badge/KrishiMitra-Farm_Management_App-brightgreen?style=for-the-badge)](https://github.com/princeyadav00785/KrishiMitra)  
+
+KrishiMitra is a **farm management system** designed to help farmers optimize their agricultural activities using **modern technology**. Features include:  
+- 📅 **Crop Planning & Management** – Smart recommendations based on soil health and weather conditions.  
+- ☁️ **Weather Forecast Integration** – Real-time weather updates to help farmers plan their activities.  
+- 📈 **Market Price Tracker** – Live price updates for crops to help farmers make informed selling decisions.  
+- 🤝 **Community Forum** – Connect with fellow farmers and agricultural experts for guidance.  
+- 💰 **Government Schemes & Subsidies** – Information on available financial assistance programs.  
+
+---
+
+### 🤝 Lending Hands  
+
+[![Lending Hands](https://img.shields.io/badge/Lending_Hands-MERN_Project-blue?style=for-the-badge)](https://github.com/princeyadav00785/Lending_Hands)  
+
+Lending Hands is a **MERN stack-based e-commerce platform** that allows users to buy, sell, and donate pre-owned products. The project is designed to **promote sustainability** and help people in need by giving used products a second life. Key features:  
+- 🛍️ **Buy & Sell Items** – A user-friendly marketplace for second-hand goods.  
+- 💳 **Secure Payments** – Integrated **Stripe API** for seamless payment processing.  
+- 🔍 **Smart Search & Filters** – Find products based on categories, price range, and condition.  
+- 🔄 **Donation Feature** – Users can donate items to charities or individuals in need.  
+- 📦 **Order Management System** – Track orders and communicate with buyers/sellers.  
+
+---
+
+### 🎬 Movie House  
+
+[![Movie House](https://img.shields.io/badge/Movie_House-Web_Development_Project-orange?style=for-the-badge)](https://github.com/princeyadav00785/Movie_house)  
+
+Movie House is a **movie recommendation and streaming** platform that uses **ML algorithms** to suggest content based on user preferences. Features include:  
+- 🎞️ **Personalized Recommendations** – AI-driven movie and series suggestions based on watch history.  
+- 🔍 **Genre-Based Filtering** – Find movies based on specific genres.  
+- 🎭 **Social Watch Party** – Create virtual rooms to **watch movies together** with friends.  
+- 🏆 **Trending & Popular Movies** – See what's trending and get curated lists of top-rated content.  
+
+---
+
+Let me know if you need any more changes! 🚀😊
 
 ## 🎓 Education
 
