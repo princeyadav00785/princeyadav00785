@@ -33,11 +33,6 @@
 
 - Flutter
 
-## 🚀 My Projects
-
-Here's an updated and enhanced version of your GitHub README projects section, with **EduStream** at the top, followed by **Farm Management App (KrishiMitra)** and then **Lending Hands**. I've expanded descriptions and improved formatting.  
-
----
 
 ## 🚀 My Projects  
 
