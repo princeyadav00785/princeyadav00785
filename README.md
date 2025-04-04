@@ -87,8 +87,6 @@ Movie House is a **movie recommendation and streaming** platform that uses **ML 
 
 ---
 
-Let me know if you need any more changes! 🚀😊
-
 ## 🎓 Education
 
 - **B.Tech**  
